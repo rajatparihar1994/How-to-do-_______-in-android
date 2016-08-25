@@ -2,5 +2,6 @@
 
 __ANDROID BASICS EXAMPLE__
 
-| Project      | Elements           | Description  |
+| Project      | Elements | Description  |
+|--------------|----------|--------------|
 | Toggle Button  | Toggle Buttons | _____ |
